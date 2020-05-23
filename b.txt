@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Codigo identico
+=======
+mesmo codigo
+>>>>>>> teste

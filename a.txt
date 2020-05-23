@@ -1,3 +1,7 @@
 Teste
 Entendedo o HEAD no GIT
+<<<<<<< HEAD
 Nilson Jeronimo
+=======
+\modificação no ramo teste
+>>>>>>> teste
